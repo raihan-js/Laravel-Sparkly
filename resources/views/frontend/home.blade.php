@@ -228,7 +228,7 @@
           <div class="qrt-divider"></div>
           <div class="qrt-copy">
             <!-- author ( Please! Do not delete it. You are awesome! :) -->
-            <div>© Late 2020 Quarty.<br>Design by:&#160; <a class="qrt-cursor-scale qrt-cursor-color" href="https://themeforest.net/user/millerdigitaldesign" target="_blank">Nazar Miller</a></div>
+            <div>© Late 2020 Sparkly.<br>Design by:&#160; <a class="qrt-cursor-scale qrt-cursor-color" href="#" target="_blank">Raihan-ja</a></div>
           </div>
         </div>
       </div>
@@ -260,7 +260,7 @@
                 <div class="qrt-overlay">
                   <div class="qrt-parallax-fix" data-swiper-parallax-x="-400" data-swiper-parallax-duration="1000">
                     <div class="qrt-banner-title">
-                      <h1 class="qrt-white qrt-mb-30">Architecture - <br> petrified music</h1>
+                      <h1 class="qrt-white qrt-mb-30">Sparkly - <br> A Blog App with Laravel</h1>
                       <div class="qrt-divider-2"></div>
                       <div class="qrt-text qrt-white qrt-mb-20">Change is an opportunity! We want to lead people towards durable solutions and designs that enhance feelings of closeness, and hopefully, happiness.</div>
                       <a href="about-us.html" class="qrt-btn qrt-btn-md qrt-btn-color qrt-cursor-scale qrt-anima-link qrt-mb-20"><span>Explore now</span><i class="fas fa-arrow-right"></i></a>
